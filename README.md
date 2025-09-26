@@ -1,3 +1,3 @@
-# First-Repo
-Learning github
+# First-Repository
+(Learning github)
 Author - Ayush Shrivastav
